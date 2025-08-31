@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: kairo
+Version: 1.0.0
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: chromadb
+Requires-Dist: rich
+Requires-Dist: typer
+Requires-Dist: pypdf
+Requires-Dist: tiktoken
+Dynamic: requires-dist

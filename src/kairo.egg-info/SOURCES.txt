@@ -1,0 +1,16 @@
+pyproject.toml
+setup.py
+src/kairo/__init__.py
+src/kairo/cli.py
+src/kairo/core.py
+src/kairo/main.py
+src/kairo/memory.py
+src/kairo/retriever.py
+src/kairo/utils.py
+src/kairo.egg-info/PKG-INFO
+src/kairo.egg-info/SOURCES.txt
+src/kairo.egg-info/dependency_links.txt
+src/kairo.egg-info/entry_points.txt
+src/kairo.egg-info/requires.txt
+src/kairo.egg-info/top_level.txt
+tests/test_basic.py
